@@ -17,6 +17,9 @@ export const App = (props: Props): JSX.Element => {
         display: 'grid',
         justifyContent: 'center',
         alignItems: 'center',
+        font: 'caption',
+        backgroundColor: 'black',
+        color: 'white',
       }}
     >
       <h1>
